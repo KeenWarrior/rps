@@ -1,6 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import "../App.css";
-import { useContext, useEffect, useState } from "react";
+import { useContext, useState } from "react";
 import { ScoreContext } from "../BaseRoutes";
 
 function PlayPage() {
